@@ -1,0 +1,310 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "DENY"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        }
+      ]
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/3-reasons-you-should-never-pair-blinds-and-curtains-together",
+      "destination": "https://www.loveisblindsky.com/do-sheer-curtains-go-inside-or-outside",
+      "permanent": true
+    },
+    {
+      "source": "/5-signs-its-time-to-replace-your-blinds",
+      "destination": "https://www.loveisblindsky.com/services/blinds-installation",
+      "permanent": true
+    },
+    {
+      "source": "/5-smart-apps-for-motorized-window-treatments",
+      "destination": "https://www.loveisblindsky.com/products/window-treatment-automations",
+      "permanent": true
+    },
+    {
+      "source": "/6-best-window-blinds-for-living-room-in-2025",
+      "destination": "https://www.loveisblindsky.com/blog",
+      "permanent": true
+    },
+    {
+      "source": "/affordable-alternatives-to-blinds",
+      "destination": "https://www.loveisblindsky.com/blog",
+      "permanent": true
+    },
+    {
+      "source": "/are-honeycomb-shades-and-cellular-shades-the-same",
+      "destination": "https://www.loveisblindsky.com/blog",
+      "permanent": true
+    },
+    {
+      "source": "/are-zebra-blinds-good-for-the-bedroom",
+      "destination": "https://www.loveisblindsky.com/products/dual-shades",
+      "permanent": true
+    },
+    {
+      "source": "/best-curtain-for-apartments-blinds",
+      "destination": "https://www.loveisblindsky.com/do-sheer-curtains-go-inside-or-outside",
+      "permanent": true
+    },
+    {
+      "source": "/can-you-install-blinds-without-a-drill-3-easy-steps-to-do-it",
+      "destination": "https://www.loveisblindsky.com/services/blinds-installation",
+      "permanent": true
+    },
+    {
+      "source": "/can-you-use-roller-shades-on-a-sliding-glass-door",
+      "destination": "https://www.loveisblindsky.com/products/roller-shades",
+      "permanent": true
+    },
+    {
+      "source": "/choosing-the-right-window-treatments-for-office-spaces",
+      "destination": "https://www.loveisblindsky.com/blog",
+      "permanent": true
+    },
+    {
+      "source": "/create-a-tropical-paradise-with-summer-window-treatments",
+      "destination": "https://www.loveisblindsky.com/blog",
+      "permanent": true
+    },
+    {
+      "source": "/creating-a-backyard-movie-theater-with-outdoor-patio-shades",
+      "destination": "https://www.loveisblindsky.com/products/exterior-patio-shades",
+      "permanent": true
+    },
+    {
+      "source": "/custom-window-treatment-solutions-for-every-texan-home",
+      "destination": "https://www.loveisblindsky.com/blog",
+      "permanent": true
+    },
+    {
+      "source": "/do-window-treatments-affect-home-appraisals-and-property-value",
+      "destination": "https://www.loveisblindsky.com/products",
+      "permanent": true
+    },
+    {
+      "source": "/embrace-sustainability-with-eco-friendly-window-treatments",
+      "destination": "https://www.loveisblindsky.com/blog",
+      "permanent": true
+    },
+    {
+      "source": "/honeycomb-shades-a-stylish-and-energy-efficient-window-treatment",
+      "destination": "https://www.loveisblindsky.com/products/energy-efficient-custom-window-shades",
+      "permanent": true
+    },
+    {
+      "source": "/how-color-and-interior-design-have-shaped-window-coverings",
+      "destination": "https://www.loveisblindsky.com/what-color-blinds-go-best-with-white-walls",
+      "permanent": true
+    },
+    {
+      "source": "/how-do-cordless-window-blinds-work",
+      "destination": "https://www.loveisblindsky.com/blog",
+      "permanent": true
+    },
+    {
+      "source": "/how-do-i-choose-energy-efficient-window-treatments-for-older-homes",
+      "destination": "https://www.loveisblindsky.com/products/energy-efficient-custom-window-shades",
+      "permanent": true
+    },
+    {
+      "source": "/how-do-i-maintain-and-clean-my-window-treatments",
+      "destination": "https://www.loveisblindsky.com/blog/cleaning-and-caring-for-blinds-and-shutters-in-humidity",
+      "permanent": true
+    },
+    {
+      "source": "/how-to-choose-the-best-window-treatments-for-homes-with-minimalist-interiors",
+      "destination": "https://www.loveisblindsky.com/products/shades",
+      "permanent": true
+    },
+    {
+      "source": "/how-to-choose-window-treatments-for-homes-with-large-glass-doors",
+      "destination": "https://www.loveisblindsky.com/blog/french-doors-and-sliding-glass-doors",
+      "permanent": true
+    },
+    {
+      "source": "/how-to-fix-window-shades-that-won-t-roll-up-or-down-properly",
+      "destination": "https://www.loveisblindsky.com/why-your-blinds-keep-falling-down-and-how-to-fix-it-for-good",
+      "permanent": true
+    },
+    {
+      "source": "/how-to-take-blinds-off-the-window",
+      "destination": "https://www.loveisblindsky.com/services/blinds-installation",
+      "permanent": true
+    },
+    {
+      "source": "/is-it-love-is-blind-or-love-is-blinds",
+      "destination": "https://www.loveisblindsky.com/blog",
+      "permanent": true
+    },
+    {
+      "source": "/layering-trends-in-texas-window-treatments",
+      "destination": "https://www.loveisblindsky.com/blog",
+      "permanent": true
+    },
+    {
+      "source": "/motorized-roller-shades-smart-home-integration-solutions",
+      "destination": "https://www.loveisblindsky.com/products/roller-shades",
+      "permanent": true
+    },
+    {
+      "source": "/outdoor-comfort-with-exterior-patio-shades-for-texas-summers",
+      "destination": "https://www.loveisblindsky.com/products/exterior-patio-shades",
+      "permanent": true
+    },
+    {
+      "source": "/pros-and-cons-of-buying-zebra-blinds-is-it-worth-it",
+      "destination": "https://www.loveisblindsky.com/products/dual-shades",
+      "permanent": true
+    },
+    {
+      "source": "/residential-window-treatments-elevate-your-home-s-style",
+      "destination": "https://www.loveisblindsky.com/blog",
+      "permanent": true
+    },
+    {
+      "source": "/smart-home-integration-with-window-treatments",
+      "destination": "https://www.loveisblindsky.com/products/window-treatment-automations",
+      "permanent": true
+    },
+    {
+      "source": "/the-beauty-and-benefits-of-real-wood-blinds",
+      "destination": "https://www.loveisblindsky.com/blog",
+      "permanent": true
+    },
+    {
+      "source": "/the-best-curtains-for-angled-windows",
+      "destination": "https://www.loveisblindsky.com/blog/bay-and-bow-window-treatment-options",
+      "permanent": true
+    },
+    {
+      "source": "/the-best-way-to-clean-wooden-blinds-fast-easy",
+      "destination": "https://www.loveisblindsky.com/blog/cleaning-and-caring-for-blinds-and-shutters-in-humidity",
+      "permanent": true
+    },
+    {
+      "source": "/the-pros-and-cons-of-installing-vertical-blinds",
+      "destination": "https://www.loveisblindsky.com/services/blinds-installation",
+      "permanent": true
+    },
+    {
+      "source": "/the-shift-to-cordless-window-treatments",
+      "destination": "https://www.loveisblindsky.com/blog",
+      "permanent": true
+    },
+    {
+      "source": "/top-10-dog-proof-window-blinds-durable-and-pet-friendly",
+      "destination": "https://www.loveisblindsky.com/blog",
+      "permanent": true
+    },
+    {
+      "source": "/transform-your-home-with-stylish-plantation-shutters-the-ultimate-guide",
+      "destination": "https://www.loveisblindsky.com/products/plantation-shutters",
+      "permanent": true
+    },
+    {
+      "source": "/vinyl-vs-aluminum-blinds-which-window-covering-is-better",
+      "destination": "https://www.loveisblindsky.com/products/blinds",
+      "permanent": true
+    },
+    {
+      "source": "/vinyl-vs-tpc-blinds-which-window-covering-is-better",
+      "destination": "https://www.loveisblindsky.com/products/blinds",
+      "permanent": true
+    },
+    {
+      "source": "/what-are-the-best-window-treatments-for-arched-windows-and-how-do-you-install-them",
+      "destination": "https://www.loveisblindsky.com/blog/bay-and-bow-window-treatment-options",
+      "permanent": true
+    },
+    {
+      "source": "/what-are-the-best-window-treatments-for-bay-windows",
+      "destination": "https://www.loveisblindsky.com/blog/bay-and-bow-window-treatment-options",
+      "permanent": true
+    },
+    {
+      "source": "/what-are-venetian-blinds-is-it-worth-buying-them",
+      "destination": "https://www.loveisblindsky.com/blog",
+      "permanent": true
+    },
+    {
+      "source": "/what-is-the-best-fabric-blinds-for-windows",
+      "destination": "https://www.loveisblindsky.com/blog",
+      "permanent": true
+    },
+    {
+      "source": "/what-is-the-best-way-to-choose-window-treatments-for-small-windows",
+      "destination": "https://www.loveisblindsky.com/products/shades",
+      "permanent": true
+    },
+    {
+      "source": "/what-is-the-difference-between-blackout-and-blackout-blinds",
+      "destination": "https://www.loveisblindsky.com/blog/what-blackout-really-means",
+      "permanent": true
+    },
+    {
+      "source": "/what-type-of-blinds-should-you-use-in-a-bathroom",
+      "destination": "https://www.loveisblindsky.com/best-window-treatments-for-indoor-pools-and-spas",
+      "permanent": true
+    },
+    {
+      "source": "/whats-the-best-window-treatment-for-noise-reduction",
+      "destination": "https://www.loveisblindsky.com/products/honeycomb-shades",
+      "permanent": true
+    },
+    {
+      "source": "/when-were-window-blinds-invented",
+      "destination": "https://www.loveisblindsky.com/blog",
+      "permanent": true
+    },
+    {
+      "source": "/why-pvc-blinds-are-a-top-choice-for-outdoor-patios-windows",
+      "destination": "https://www.loveisblindsky.com/products/exterior-patio-shades",
+      "permanent": true
+    },
+    {
+      "source": "/why-you-need-professionally-installed-roller-shades-for-your-home",
+      "destination": "https://www.loveisblindsky.com/products/roller-shades",
+      "permanent": true
+    },
+    {
+      "source": "/window-blinds-vs-shades-which-one-is-better",
+      "destination": "https://www.loveisblindsky.com/blog",
+      "permanent": true
+    },
+    {
+      "source": "/window-covering-you-shouldn-t-buy-if-you-have-kids-around",
+      "destination": "https://www.loveisblindsky.com/blog",
+      "permanent": true
+    },
+    {
+      "source": "/window-shutters-vs-blinds-which-one-is-better-for-your-home",
+      "destination": "https://www.loveisblindsky.com/products/plantation-shutters",
+      "permanent": true
+    },
+    {
+      "source": "/window-treatments-balancing-natural-light-and-privacy",
+      "destination": "https://www.loveisblindsky.com/blog",
+      "permanent": true
+    },
+    {
+      "source": "/window-treatments-for-protection-against-uv-rays",
+      "destination": "https://www.loveisblindsky.com/blog",
+      "permanent": true
+    }
+  ]
+}
