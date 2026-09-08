@@ -305,6 +305,11 @@
       "source": "/window-treatments-for-protection-against-uv-rays",
       "destination": "https://www.loveisblindsky.com/blog",
       "permanent": true
+    },
+    {
+      "source": "/products",
+      "destination": "/",
+      "permanent": true
     }
   ]
 }
