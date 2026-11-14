@@ -1,0 +1,4 @@
+# Keep Claude's working notes off the public site.
+# Vercel serves this repo's root, so anything not listed here is public.
+CLAUDE.md
+.claude/
